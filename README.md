@@ -17,5 +17,5 @@ compile 'com.github.FatWhite:XScrollItemLayout:1.0'<br />
           android:tag="scrollitem"/>``
           <br /> <br /> 
 注意在滑动item的布局中增加android:tag="scrollitem"<br /> 
-![Alt text](https://github.com/FatWhite/XScrollItemLayout/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170602141812.png)
-![Alt text](https://github.com/FatWhite/XScrollItemLayout/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20170602141818.png)
+![](https://github.com/FatWhite/XScrollItemLayout/blob/master/1.png)
+![](https://github.com/FatWhite/XScrollItemLayout/blob/master/2.png)
