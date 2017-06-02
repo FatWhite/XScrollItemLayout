@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <jm.org.itemlayout.XItemScrollLayout
+       android:id="@+id/itemLayout"
+       android:layout_centerInParent="true"
+       android:layout_width="match_parent"
+       android:layout_height="90dp"
+       >
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="90dp"
+          android:text="I'm Item"
+          android:gravity="center"
+          android:background="#cfccfc"
+          android:tag="scrollitem"/>
+   </jm.org.itemlayout.XItemScrollLayout>
+</RelativeLayout>
