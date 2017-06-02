@@ -1,5 +1,5 @@
 # XScrollItemLayout
-这是一个可以左滑或者右滑的控件，可用于listview的item中，例如邮件app会需要左滑或者右滑item进行atchive等操作<br /> 
+这是一个可以左滑或者右滑的控件，可用于listview的item中，例如邮件app会需要左滑或者右滑item进行archive等操作<br /> 
 使用方法：<br />  maven { url "https://jitpack.io" }<br /> 
 compile 'com.github.FatWhite:XScrollItemLayout:1.0'<br /> 
 ``iLayout= (XItemScrollLayout) findViewById(R.id.itemLayout);``<br /> 
